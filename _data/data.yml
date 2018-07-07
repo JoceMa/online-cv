@@ -10,13 +10,13 @@ sidebar:
     
     # Profile information
     name: Alan Doe
-    tagline: Full Stack Developer
+    tagline: B.A. Biochemistry Student With an Interest in Computer Science 
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    # email: hello@webjeda.com
+    # phone: 012 345 6789
+    # website: blog.webjeda.com #do not add http://
     linkedin: alandoe
     github: sharu725
     twitter: '@webjeda'
@@ -26,28 +26,32 @@ sidebar:
           idiom: English
           level: Native
         - language:
-          idiom: French
-          level: Professional
+          idiom: Mandarin
+          level: Native
         - language:
-          idiom: Spanish
-          level: Professional
+          idiom: Taiwanese
+          level: Native
+        - language:
+          idiom: Dutch
+          level: Intermediate
+        - language:
+          idiom: French
+          level: Intermediate
         
     interests:
         - interest:
-          item: Climbing
+          item: Basketball
           link:
         - interest:
-          item: Snowboarding
+          item: Swimming
+          link:
+        - interest:
+          item: Yoga
           link:
         - interest:
           item: Cooking
-          link:
-
+          link: 
         
-
-
-
-
 career-profile: 
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
